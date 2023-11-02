@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\bin\Debug\TupleApp.exe.config
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\bin\Debug\TupleApp.exe
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\bin\Debug\TupleApp.pdb
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\obj\Debug\TupleApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\obj\Debug\TupleApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\obj\Debug\TupleApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\obj\Debug\TupleApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\obj\Debug\TupleApp.exe
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\obj\Debug\TupleApp.pdb
+G:\Heilton\AdvanceC#\Apps\TupleApp\TupleApp\obj\Debug\TupleApp.Form1.resources

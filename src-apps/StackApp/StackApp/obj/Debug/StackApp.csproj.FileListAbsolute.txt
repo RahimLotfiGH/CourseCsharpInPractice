@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\bin\Debug\StackApp.exe.config
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\bin\Debug\StackApp.exe
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\bin\Debug\StackApp.pdb
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\obj\Debug\StackApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\obj\Debug\StackApp.Form1.resources
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\obj\Debug\StackApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\obj\Debug\StackApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\obj\Debug\StackApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\obj\Debug\StackApp.exe
+G:\Heilton\AdvanceC#\Apps\StackApp\StackApp\obj\Debug\StackApp.pdb

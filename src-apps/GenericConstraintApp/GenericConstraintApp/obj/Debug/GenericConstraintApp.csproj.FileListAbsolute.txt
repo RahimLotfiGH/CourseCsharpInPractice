@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\bin\Debug\GenericConstraintApp.exe.config
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\bin\Debug\GenericConstraintApp.exe
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\bin\Debug\GenericConstraintApp.pdb
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\obj\Debug\GenericConstraintApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\obj\Debug\GenericConstraintApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\obj\Debug\GenericConstraintApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\obj\Debug\GenericConstraintApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\obj\Debug\GenericConstraintApp.exe
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\obj\Debug\GenericConstraintApp.pdb
+G:\Heilton\AdvanceC#\Apps\GenericConstraintApp\GenericConstraintApp\obj\Debug\GenericConstraintApp.Form1.resources

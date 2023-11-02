@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\bin\Debug\SwitchCaseApp.exe.config
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\bin\Debug\SwitchCaseApp.exe
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\bin\Debug\SwitchCaseApp.pdb
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\obj\Debug\SwitchCaseApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\obj\Debug\SwitchCaseApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\obj\Debug\SwitchCaseApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\obj\Debug\SwitchCaseApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\obj\Debug\SwitchCaseApp.exe
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\obj\Debug\SwitchCaseApp.pdb
+G:\Heilton\AdvanceC#\Apps\SwitchCaseApp\SwitchCaseApp\obj\Debug\SwitchCaseApp.Form1.resources

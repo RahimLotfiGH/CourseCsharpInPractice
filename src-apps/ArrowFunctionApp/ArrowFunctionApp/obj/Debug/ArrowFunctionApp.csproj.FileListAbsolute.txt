@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\bin\Debug\ArrowFunctionApp.exe.config
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\bin\Debug\ArrowFunctionApp.exe
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\bin\Debug\ArrowFunctionApp.pdb
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\obj\Debug\ArrowFunctionApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\obj\Debug\ArrowFunctionApp.Form1.resources
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\obj\Debug\ArrowFunctionApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\obj\Debug\ArrowFunctionApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\obj\Debug\ArrowFunctionApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\obj\Debug\ArrowFunctionApp.exe
+G:\Heilton\AdvanceC#\Apps\ArrowFunctionApp\ArrowFunctionApp\obj\Debug\ArrowFunctionApp.pdb

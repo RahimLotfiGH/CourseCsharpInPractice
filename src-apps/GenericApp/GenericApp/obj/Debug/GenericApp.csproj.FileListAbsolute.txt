@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\bin\Debug\GenericApp.exe
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\bin\Debug\GenericApp.pdb
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\obj\Debug\GenericApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\obj\Debug\GenericApp.Form1.resources
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\obj\Debug\GenericApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\obj\Debug\GenericApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\obj\Debug\GenericApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+G:\Heilton\AdvanceC#\Apps\GenericApp\GenericApp\obj\Debug\GenericApp.pdb

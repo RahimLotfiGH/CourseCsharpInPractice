@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe.config
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\bin\Debug\SortedListApp.pdb
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Form1.resources
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\obj\Debug\SortedListApp.exe
+G:\Heilton\AdvanceC#\Apps\SortedListApp\SortedListApp\obj\Debug\SortedListApp.pdb

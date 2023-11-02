@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\bin\Debug\ActionApp.exe.config
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\bin\Debug\ActionApp.exe
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\bin\Debug\ActionApp.pdb
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\obj\Debug\ActionApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\obj\Debug\ActionApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\obj\Debug\ActionApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\obj\Debug\ActionApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\obj\Debug\ActionApp.exe
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\obj\Debug\ActionApp.pdb
+G:\Heilton\AdvanceC#\Apps\ActionApp\ActionApp\obj\Debug\ActionApp.Form1.resources

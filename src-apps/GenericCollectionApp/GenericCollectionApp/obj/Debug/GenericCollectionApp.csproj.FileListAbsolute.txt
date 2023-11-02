@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\bin\Debug\GenericCollectionApp.exe.config
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\bin\Debug\GenericCollectionApp.exe
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\bin\Debug\GenericCollectionApp.pdb
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\obj\Debug\GenericCollectionApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\obj\Debug\GenericCollectionApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\obj\Debug\GenericCollectionApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\obj\Debug\GenericCollectionApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\obj\Debug\GenericCollectionApp.exe
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\obj\Debug\GenericCollectionApp.pdb
+G:\Heilton\AdvanceC#\Apps\GenericCollectionApp\GenericCollectionApp\obj\Debug\GenericCollectionApp.Form1.resources

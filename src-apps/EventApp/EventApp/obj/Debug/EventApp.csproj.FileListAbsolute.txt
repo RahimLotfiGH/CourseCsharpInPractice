@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\bin\Debug\EventApp.exe.config
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\bin\Debug\EventApp.exe
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\bin\Debug\EventApp.pdb
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\obj\Debug\EventApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\obj\Debug\EventApp.Form1.resources
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\obj\Debug\EventApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\obj\Debug\EventApp.exe
+G:\Heilton\AdvanceC#\Apps\EventApp\EventApp\obj\Debug\EventApp.pdb

@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\bin\Debug\DelegateFuncApp.exe.config
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\bin\Debug\DelegateFuncApp.exe
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\bin\Debug\DelegateFuncApp.pdb
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\obj\Debug\DelegateFuncApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\obj\Debug\DelegateFuncApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\obj\Debug\DelegateFuncApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\obj\Debug\DelegateFuncApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\obj\Debug\DelegateFuncApp.exe
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\obj\Debug\DelegateFuncApp.pdb
+G:\Heilton\AdvanceC#\Apps\DelegateFunc\DelegateFuncApp\DelegateFuncApp\obj\Debug\DelegateFuncApp.Form1.resources

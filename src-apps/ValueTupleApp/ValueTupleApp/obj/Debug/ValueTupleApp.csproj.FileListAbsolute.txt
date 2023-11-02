@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\bin\Debug\ValueTupleApp.exe.config
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\bin\Debug\ValueTupleApp.exe
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\bin\Debug\ValueTupleApp.pdb
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\obj\Debug\ValueTupleApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\obj\Debug\ValueTupleApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\obj\Debug\ValueTupleApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\obj\Debug\ValueTupleApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\obj\Debug\ValueTupleApp.exe
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\obj\Debug\ValueTupleApp.pdb
+G:\Heilton\AdvanceC#\Apps\ValueTupleApp\ValueTupleApp\obj\Debug\ValueTupleApp.Form1.resources

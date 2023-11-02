@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\bin\Debug\QueueApp.exe.config
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\bin\Debug\QueueApp.exe
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\bin\Debug\QueueApp.pdb
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\obj\Debug\QueueApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\obj\Debug\QueueApp.Form1.resources
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\obj\Debug\QueueApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\obj\Debug\QueueApp.exe
+G:\Heilton\AdvanceC#\Apps\QueueApp\QueueApp\obj\Debug\QueueApp.pdb

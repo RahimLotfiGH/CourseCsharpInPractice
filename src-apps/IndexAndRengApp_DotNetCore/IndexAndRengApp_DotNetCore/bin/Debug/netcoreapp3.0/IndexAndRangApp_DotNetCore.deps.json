@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "IndexAndRangApp_DotNetCore/1.0.0": {
+        "runtime": {
+          "IndexAndRangApp_DotNetCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndexAndRangApp_DotNetCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

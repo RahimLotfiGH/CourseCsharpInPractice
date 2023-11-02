@@ -1,0 +1,12 @@
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\bin\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.exe
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\bin\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.deps.json
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\bin\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.runtimeconfig.json
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\bin\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.runtimeconfig.dev.json
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\bin\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.dll
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\bin\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.pdb
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\obj\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\obj\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\obj\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.AssemblyInfoInputs.cache
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\obj\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.AssemblyInfo.cs
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\obj\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.dll
+G:\Heilton\AdvanceC#\Apps\IndexAndRengApp_DotNetCore\IndexAndRengApp_DotNetCore\obj\Debug\netcoreapp3.0\IndexAndRengApp_DotNetCore.pdb

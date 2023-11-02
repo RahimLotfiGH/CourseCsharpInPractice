@@ -1,0 +1,10 @@
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\bin\Debug\CSharpApp.exe.config
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\bin\Debug\CSharpApp.exe
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\bin\Debug\CSharpApp.pdb
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\obj\Debug\CSharpApp.csprojAssemblyReference.cache
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\obj\Debug\CSharpApp.Form1.resources
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\obj\Debug\CSharpApp.Properties.Resources.resources
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\obj\Debug\CSharpApp.csproj.GenerateResource.cache
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\obj\Debug\CSharpApp.csproj.CoreCompileInputs.cache
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\obj\Debug\CSharpApp.exe
+G:\Heilton\AdvanceC#\Apps\CSharpApp\CSharpApp\obj\Debug\CSharpApp.pdb
